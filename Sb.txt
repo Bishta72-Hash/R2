@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 change barnch by master
+=======
+second barnch by r master
+>>>>>>> origin/master
 main branch
 
